@@ -1,4 +1,4 @@
-# 📊 Telephony Plans Revenue Analysis  
+# 📊 Telephone Plans Revenue Analysis  
 ## Análisis de Ingresos de Planes Telefónicos
 
 ---
